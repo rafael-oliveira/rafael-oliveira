@@ -2,7 +2,7 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:15px/1.5  Lato,"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
 }
@@ -10,6 +10,10 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
+}
+
+h1{
+  font-weight: bold;
 }
 
 p, ul, ol, table, pre, dl {
@@ -78,8 +82,8 @@ table {
 
 th, td {
   text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  padding:2px 5px;
+  border-bottom:0px solid #e5e5e5;
 }
 
 dt {
