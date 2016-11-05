@@ -6,8 +6,13 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
+<<<<<<< HEAD
   src: url('../fonts/awesome/fontawesome-webfont.eot@v=4.4.0');
   src: url('../fonts/awesome/fontawesome-webfont.eot') format('embedded-opentype'), url('../fonts/awesome/fontawesome-webfont.woff2@v=4.4.0') format('woff2'), url('../fonts/awesome/fontawesome-webfont.woff@v=4.4.0') format('woff'), url('../fonts/awesome/fontawesome-webfont.ttf@v=4.4.0') format('truetype'), url('../fonts/awesome/fontawesome-webfont.svg@v=4.4.0') format('svg');
+=======
+  src: url('../fonts/awesome/fontawesome-webfont.eot?v=4.4.0');
+  src: url('../fonts/awesome/fontawesome-webfont.eot?') format('embedded-opentype'), url('../fonts/awesome/fontawesome-webfont.woff2?v=4.4.0') format('woff2'), url('../fonts/awesome/fontawesome-webfont.woff?v=4.4.0') format('woff'), url('../fonts/awesome/fontawesome-webfont.ttf?v=4.4.0') format('truetype'), url('../fonts/awesome/fontawesome-webfont.svg?v=4.4.0') format('svg');
+>>>>>>> 578e8b97159fa95cb9939f1452725ef43dc93f78
   font-weight: normal;
   font-style: normal;
 }
