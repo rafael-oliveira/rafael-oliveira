@@ -11,11 +11,89 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5605,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "robots.txt",
+			"settings":
+			{
+				"buffer_size": 86,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "author/rafa/index.html",
+			"settings":
+			{
+				"buffer_size": 6652,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "como-esta-o-clima-na-sua-mesa-de-trabalho/index.html",
+			"settings":
+			{
+				"buffer_size": 12753,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact/index.html",
+			"settings":
+			{
+				"buffer_size": 8951,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "otimizando-reunioes/index.html",
+			"settings":
+			{
+				"buffer_size": 11271,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rss/index.rss",
+			"settings":
+			{
+				"buffer_size": 9469,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 25 files for \"localhost:2368\"\n\n/Users/raolivei/repos/my/rafael-oliveira.github.io/index.html:\n   21      <meta property=\"og:type\" content=\"website\">\n   22      <meta property=\"og:title\" content=\"blog.dorafa\">\n   23:     <meta property=\"og:url\" content=\"http://localhost:2368/\">\n   24      \n   25      <meta name=\"twitter:card\" content=\"summary\">\n   26      <meta name=\"twitter:title\" content=\"blog.dorafa\">\n   27:     <meta name=\"twitter:url\" content=\"http://localhost:2368/\">\n   28      \n   29      <script type=\"application/ld+json\">\n   ..\n   32      \"@type\": \"Website\",\n   33      \"publisher\": \"blog.dorafa\",\n   34:     \"url\": \"http://localhost:2368/\"\n   35  }\n   36      </script>\n\n/Users/raolivei/repos/my/rafael-oliveira.github.io/robots.txt:\n    1  User-agent: *\n    2: Sitemap: http://localhost:2368/sitemap.xml\n    3  Disallow: /ghost/\n    4  \n\n/Users/raolivei/repos/my/rafael-oliveira.github.io/author/rafa/index.html:\n   22      <meta property=\"og:title\" content=\"Rafael Oliveira - Page 1 - blog.dorafa\">\n   23      <meta property=\"og:description\" content=\"Analista de Sistemas, Agilista, Atleticano, Bebedor de Cerveja e Músico de Garagem.\">\n   24:     <meta property=\"og:url\" content=\"http://localhost:2368/author/rafa/\">\n   25      \n   26      <meta name=\"twitter:card\" content=\"summary\">\n   27      <meta name=\"twitter:title\" content=\"Rafael Oliveira - Page 1 - blog.dorafa\">\n   28      <meta name=\"twitter:description\" content=\"Analista de Sistemas, Agilista, Atleticano, Bebedor de Cerveja e Músico de Garagem.\">\n   29:     <meta name=\"twitter:url\" content=\"http://localhost:2368/author/rafa/\">\n   30      \n   31      <script type=\"application/ld+json\">\n   ..\n   35      \"publisher\": \"blog.dorafa\",\n   36      \"name\": \"Rafael Oliveira\",\n   37:     \"url\": \"http://localhost:2368/author/rafa\",\n   38      \"description\": \"Analista de Sistemas, Agilista, Atleticano, Bebedor de Cerveja e Músico de Garagem.\"\n   39  }\n\n/Users/raolivei/repos/my/rafael-oliveira.github.io/como-esta-o-clima-na-sua-mesa-de-trabalho/index.html:\n   22      <meta property=\"og:title\" content=\"Como está o clima na sua mesa de trabalho?\">\n   23      <meta property=\"og:description\" content=\"Certa vez em uma reunião de trabalho comentávamos sobre maneiras de saber se as coisas andavam bem na equipe. Andar bem no sentido entrosamento entre as pessoas, se elas ainda se suportavam e davam conta de trabalhar juntas, se a...\">\n   24:     <meta property=\"og:url\" content=\"http://localhost:2368/como-esta-o-clima-na-sua-mesa-de-trabalho/\">\n   25      <meta property=\"article:published_time\" content=\"2016-11-05T16:32:00.000Z\">\n   26      <meta property=\"article:modified_time\" content=\"2016-11-07T13:36:15.420Z\">\n   ..\n   29      <meta name=\"twitter:title\" content=\"Como está o clima na sua mesa de trabalho?\">\n   30      <meta name=\"twitter:description\" content=\"Certa vez em uma reunião de trabalho comentávamos sobre maneiras de saber se as coisas andavam bem na equipe. Andar bem no sentido entrosamento entre as pessoas, se elas ainda se suportavam e davam conta de trabalhar juntas, se a...\">\n   31:     <meta name=\"twitter:url\" content=\"http://localhost:2368/como-esta-o-clima-na-sua-mesa-de-trabalho/\">\n   32      \n   33      <script type=\"application/ld+json\">\n   ..\n   39          \"@type\": \"Person\",\n   40          \"name\": \"Rafael Oliveira\",\n   41:         \"image\": \"http://localhost:2368/content/images/2016/11/eu2.jpg\",\n   42:         \"url\": \"http://localhost:2368/author/rafa\",\n   43          \"sameAs\": null,\n   44          \"description\": \"Analista de Sistemas, Agilista, Atleticano, Bebedor de Cerveja e Músico de Garagem. \"\n   45      },\n   46      \"headline\": \"Como está o clima na sua mesa de trabalho?\",\n   47:     \"url\": \"http://localhost:2368/como-esta-o-clima-na-sua-mesa-de-trabalho/\",\n   48      \"datePublished\": \"2016-11-05T16:32:00.000Z\",\n   49      \"dateModified\": \"2016-11-07T13:36:15.420Z\",\n   ..\n  164              <section class=\"share\">\n  165                  <h4>Share this post</h4>\n  166:                 <a class=\"icon-twitter\" href=\"https://twitter.com/intent/tweet?text=Como%20est%C3%A1%20o%20clima%20na%20sua%20mesa%20de%20trabalho%3F&amp;url=http://localhost:2368/como-esta-o-clima-na-sua-mesa-de-trabalho/\" onclick=\"window.open(this.href, 'twitter-share', 'width=550,height=235');return false;\">\n  167                      <span class=\"hidden\">Twitter</span>\n  168                  </a>\n  169:                 <a class=\"icon-facebook\" href=\"https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/como-esta-o-clima-na-sua-mesa-de-trabalho/\" onclick=\"window.open(this.href, 'facebook-share','width=580,height=296');return false;\">\n  170                      <span class=\"hidden\">Facebook</span>\n  171                  </a>\n  172:                 <a class=\"icon-google-plus\" href=\"https://plus.google.com/share?url=http://localhost:2368/como-esta-o-clima-na-sua-mesa-de-trabalho/\" onclick=\"window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;\">\n  173                      <span class=\"hidden\">Google+</span>\n  174                  </a>\n  ...\n  184  \n  185  var disqus_config = function () {\n  186: this.page.url = 'http://localhost:2368/como-esta-o-clima-na-sua-mesa-de-trabalho/';  // Replace PAGE_URL with your page's canonical URL variable\n  187  this.page.identifier = 'ghost-6'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable\n  188  };\n\n/Users/raolivei/repos/my/rafael-oliveira.github.io/contact/index.html:\n   11      <link rel=\"shortcut icon\" href=\"../favicon.ico\">\n   12  \n   13:     <link rel=\"stylesheet\" type=\"text/css\" href=\"http://localhost:2368/assets/css/custom.css?v=ec85a5ae84\">\n   14      <noscript>\n   15:     <link rel=\"stylesheet\" type=\"text/css\" href=\"http://localhost:2368/assets/css/font-awesome.css?v=ec85a5ae84\">\n   16      <link href=\"https://fonts.googleapis.com/css?family=Roboto:300,400,400italic,500,700\" rel=\"stylesheet\" type=\"text/css\">\n   17  \n   ..\n   56      <meta property=\"og:title\" content=\"Contact\">\n   57      <meta property=\"og:description\" content=\"rafael oliveira Consultant @ ThoughtWorks      mail@dorafa.com Belo Horizonte, MG - Brazil...\">\n   58:     <meta property=\"og:url\" content=\"http://localhost:2368/contact/\">\n   59      <meta property=\"article:published_time\" content=\"2016-11-04T14:36:42.154Z\">\n   60      <meta property=\"article:modified_time\" content=\"2016-11-05T00:04:52.516Z\">\n   ..\n   63      <meta name=\"twitter:title\" content=\"Contact\">\n   64      <meta name=\"twitter:description\" content=\"rafael oliveira Consultant @ ThoughtWorks      mail@dorafa.com Belo Horizonte, MG - Brazil...\">\n   65:     <meta name=\"twitter:url\" content=\"http://localhost:2368/contact/\">\n   66      \n   67      <script type=\"application/ld+json\">\n   ..\n   73          \"@type\": \"Person\",\n   74          \"name\": \"Rafael Oliveira\",\n   75:         \"image\": \"http://localhost:2368/content/images/2016/11/eu2.jpg\",\n   76:         \"url\": \"http://localhost:2368/author/rafa\",\n   77          \"sameAs\": null,\n   78          \"description\": \"Analista de Sistemas, Agilista, Atleticano, Bebedor de Cerveja e Músico de Garagem. \"\n   79      },\n   80      \"headline\": \"Contact\",\n   81:     \"url\": \"http://localhost:2368/contact/\",\n   82      \"datePublished\": \"2016-11-04T14:36:42.154Z\",\n   83      \"dateModified\": \"2016-11-05T00:04:52.516Z\",\n   ..\n  142  <div class=\"postSharing\">\n  143    <span>Share on:</span>\n  144:   <a class=\"postShare fb\" title=\"Contact\" target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/contact/\" onclick=\"window.open(this.href, 'facebook-share','width=580,height=296');return false;\"><i class=\"icon fa fa-facebook\"></i></a>\n  145:   <a class=\"postShare   twitter\" title=\"Contact\" target=\"_blank\" href=\"https://twitter.com/intent/tweet?text=Contact&amp;url=http://localhost:2368/contact/\" onclick=\"window.open(this.href, 'twitter-share', 'width=550,height=235');return false;\"><i class=\"icon fa fa-twitter\"></i></a>\n  146:   <a class=\"postShare   googleplus\" title=\"Contact\" target=\"_blank\" href=\"https://plus.google.com/share?url=http://localhost:2368/contact/\" onclick=\"window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;\"><i class=\"icon fa fa-google-plus\"></i></a>\n  147  </div>\n  148  </div>\n  ...\n  212  \n  213     <script type=\"text/javascript\" src=\"https://code.jquery.com/jquery-1.11.3.min.js\"></script>\n  214:     <script type=\"text/javascript\" src=\"http://localhost:2368/assets/js/index.js?v=ec85a5ae84\"></script>\n  215  </body>\n  216  \n\n/Users/raolivei/repos/my/rafael-oliveira.github.io/otimizando-reunioes/index.html:\n   22      <meta property=\"og:title\" content=\"Menos reuniões, por favor\">\n   23      <meta property=\"og:description\" content=\"A palavra reunião geralmente causa arrepios em algumas pessoas. Buscar otimizá-las e garantir que sejam efetivas é uma tarefa nobre. Com isso em mente, quero compartilhar uma prática bem interessante que vi funcionando em algumas equipes* e venho aplicando com...\">\n   24:     <meta property=\"og:url\" content=\"http://localhost:2368/otimizando-reunioes/\">\n   25      <meta property=\"article:published_time\" content=\"2016-11-04T19:46:01.688Z\">\n   26      <meta property=\"article:modified_time\" content=\"2016-11-05T15:13:38.060Z\">\n   ..\n   29      <meta name=\"twitter:title\" content=\"Menos reuniões, por favor\">\n   30      <meta name=\"twitter:description\" content=\"A palavra reunião geralmente causa arrepios em algumas pessoas. Buscar otimizá-las e garantir que sejam efetivas é uma tarefa nobre. Com isso em mente, quero compartilhar uma prática bem interessante que vi funcionando em algumas equipes* e venho aplicando com...\">\n   31:     <meta name=\"twitter:url\" content=\"http://localhost:2368/otimizando-reunioes/\">\n   32      \n   33      <script type=\"application/ld+json\">\n   ..\n   39          \"@type\": \"Person\",\n   40          \"name\": \"Rafael Oliveira\",\n   41:         \"image\": \"http://localhost:2368/content/images/2016/11/eu2.jpg\",\n   42:         \"url\": \"http://localhost:2368/author/rafa\",\n   43          \"sameAs\": null,\n   44          \"description\": \"Analista de Sistemas, Agilista, Atleticano, Bebedor de Cerveja e Músico de Garagem. \"\n   45      },\n   46      \"headline\": \"Menos reuniões, por favor\",\n   47:     \"url\": \"http://localhost:2368/otimizando-reunioes/\",\n   48      \"datePublished\": \"2016-11-04T19:46:01.688Z\",\n   49      \"dateModified\": \"2016-11-05T15:13:38.060Z\",\n   ..\n  154              <section class=\"share\">\n  155                  <h4>Share this post</h4>\n  156:                 <a class=\"icon-twitter\" href=\"https://twitter.com/intent/tweet?text=Menos%20reuni%C3%B5es%2C%20por%20favor&amp;url=http://localhost:2368/otimizando-reunioes/\" onclick=\"window.open(this.href, 'twitter-share', 'width=550,height=235');return false;\">\n  157                      <span class=\"hidden\">Twitter</span>\n  158                  </a>\n  159:                 <a class=\"icon-facebook\" href=\"https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/otimizando-reunioes/\" onclick=\"window.open(this.href, 'facebook-share','width=580,height=296');return false;\">\n  160                      <span class=\"hidden\">Facebook</span>\n  161                  </a>\n  162:                 <a class=\"icon-google-plus\" href=\"https://plus.google.com/share?url=http://localhost:2368/otimizando-reunioes/\" onclick=\"window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;\">\n  163                      <span class=\"hidden\">Google+</span>\n  164                  </a>\n  ...\n  174  \n  175  var disqus_config = function () {\n  176: this.page.url = 'http://localhost:2368/otimizando-reunioes/';  // Replace PAGE_URL with your page's canonical URL variable\n  177  this.page.identifier = 'ghost-5'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable\n  178  };\n\n/Users/raolivei/repos/my/rafael-oliveira.github.io/rss/index.rss:\n    1: <rss xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:atom=\"http://www.w3.org/2005/Atom\" xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\"><channel><title>blog.dorafa</title><description>blog.dorafa</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Mon, 07 Nov 2016 13:36:40 GMT</lastBuildDate><atom:link href=\"http://localhost:2368/rss/\" rel=\"self\" type=\"application/rss+xml\"/><ttl>60</ttl><item><title>Como está o clima na sua mesa de trabalho?</title><description>&lt;p&gt;Certa vez em uma reunião de trabalho comentávamos sobre maneiras de saber se as coisas andavam bem na equipe. Andar bem no sentido &lt;em&gt;entrosamento entre as pessoas&lt;/em&gt;, se elas ainda se suportavam e davam conta de trabalhar juntas, se a pressão do projeto estava influenciando ou qualquer outro fator. Respondi&lt;/p&gt;</description><link>http://localhost:2368/como-esta-o-clima-na-sua-mesa-de-trabalho/</link><guid isPermaLink=\"false\">2029e589-044c-42ea-9784-44d5109707ec</guid><dc:creator>Rafael Oliveira</dc:creator><pubDate>Sat, 05 Nov 2016 16:32:00 GMT</pubDate><content:encoded>&lt;p&gt;Certa vez em uma reunião de trabalho comentávamos sobre maneiras de saber se as coisas andavam bem na equipe. Andar bem no sentido &lt;em&gt;entrosamento entre as pessoas&lt;/em&gt;, se elas ainda se suportavam e davam conta de trabalhar juntas, se a pressão do projeto estava influenciando ou qualquer outro fator. Respondi que, para mim, o clima da mesa é um dos principais indicadores de o quão bem um time pode estar.  &lt;/p&gt;\n    2  \n    3  &lt;h3 id=\"tormentasterremotoseumarcoris\"&gt;Tormentas, terremotos e um arco-íris&lt;/h3&gt;\n    4  \n    5: &lt;p&gt;&lt;img src=\"http://localhost:2368/content/images/2016/11/maxresdefault.jpg\" alt=\"fim do mundo\"&gt;&lt;/p&gt;\n    6  \n    7  &lt;p&gt;Um trabalhador comum no Brasil passa em média quase 1/3 da sua vida no ambiente de trabalho, seja qual for este ambiente. &lt;/p&gt;\n    .\n    9  &lt;p&gt;Considerando um contexto de um time de desenvolvimento de software, em um ambiente ágil, o ato de colaborar é uma necessidade básica. E é comum neste tipo de ambiente encontrar uma disposição da equipe no que chamamos de &lt;em&gt;Mesa de Jantar&lt;/em&gt;*. Assim como o nome diz, neste tipo de disposição as pessoas se sentam ao redor de uma mesa, com vista para todos. Esta organização favorece a interação entre as pessoas, a conversa flui e todos tem contato visual com todos. Sem esforço adicional. Longe de ser aquele ambiente onde cada um tem a sua baia, quase uma propriedade privada.&lt;/p&gt;\n   10  \n   11: &lt;p&gt;&lt;img src=\"http://localhost:2368/content/images/2016/11/dinner.jpg\" alt=\"dinner\"&gt;&lt;/p&gt;\n   12  \n   13  &lt;p&gt;Também pode parecer óbvio, mas só pra garantir que alguém já pesquisou isso antes, há alguns estudos&lt;a href=\"https://www.amazon.com.br/gp/product/0307591549/ref=as_li_ss_tl?tag=geo045-20&amp;amp;ie=UTF8\"&gt;[1]&lt;/a&gt; &lt;a href=\"https://www.amazon.com.br/s/?tag=geo045-20&amp;amp;field-keywords=Richard+Conniff+the+ape+in+the+corner+office+how+to+make+friends+win+fights+and+work+smarter+by+understanding+human+nature\"&gt;[2]&lt;/a&gt; que indicam que a quantidade de afeto demonstrada dentro de uma equipe está diretamente ligada ao sucesso que esta equipe vai alcançar.&lt;/p&gt;\n   ..\n   35  &lt;/sup&gt;&lt;sup&gt; &lt;br&gt;\n   36  ** Eu a escolhi, mas se ela também não me escolhesse, não adiantaria de nada.\n   37: &lt;/sup&gt;&lt;/p&gt;</content:encoded></item><item><title>Menos reuniões, por favor</title><description>&lt;p&gt;&lt;img src=\"http://localhost:2368/content/images/2016/11/meeting-1.jpg\" alt=\"no more meetings\"&gt;&lt;/p&gt;\n   38  \n   39: &lt;p&gt;A palavra &lt;em&gt;reunião&lt;/em&gt; geralmente causa arrepios em algumas pessoas. Buscar otimizá-las e garantir que sejam efetivas é uma tarefa nobre. Com isso em mente, quero compartilhar uma prática bem interessante que vi funcionando em algumas equipes* e venho aplicando com êxito no time do qual faço parte. Chamei de \"The&lt;/p&gt;</description><link>http://localhost:2368/otimizando-reunioes/</link><guid isPermaLink=\"false\">65eb86fa-5693-491c-8f53-635044d45df2</guid><dc:creator>Rafael Oliveira</dc:creator><pubDate>Fri, 04 Nov 2016 19:46:01 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=\"http://localhost:2368/content/images/2016/11/meeting-1.jpg\" alt=\"no more meetings\"&gt;&lt;/p&gt;\n   40  \n   41  &lt;p&gt;A palavra &lt;em&gt;reunião&lt;/em&gt; geralmente causa arrepios em algumas pessoas. Buscar otimizá-las e garantir que sejam efetivas é uma tarefa nobre. Com isso em mente, quero compartilhar uma prática bem interessante que vi funcionando em algumas equipes* e venho aplicando com êxito no time do qual faço parte. Chamei de \"The Daily Checklist\"**. &lt;/p&gt;\n   ..\n   53  &lt;p&gt;É legal ter os temas de alguma maneira pré-definidos, para também não perder muito tempo pensando no que vai ser discutido. Na prática, o que temos é um calendário em um quadro, de preferência no mesmo lugar onde a reunião diária acontece, com os temas que o time gostaria de falar em cada dia da semana. &lt;/p&gt;\n   54  \n   55: &lt;p&gt;&lt;img src=\"http://localhost:2368/content/images/2016/11/board1-2.png\" alt=\"Daily Checklist Board\"&gt;\n   56  &lt;em&gt;Board com a 'agenda' da reunião diária&lt;/em&gt;&lt;/p&gt;\n   57  \n\n45 matches across 7 files\n\n\nSearching 25 files for \"localhost:2368\"\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 17438,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 219.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -43,7 +121,12 @@
 	},
 	"console":
 	{
-		"height": 552.0
+		"height": 552.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
 	},
 	"distraction_free":
 	{
@@ -54,6 +137,11 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/raolivei/repos/my/rafael-oliveira.github.io",
+		"/Users/raolivei/repos/my/rafael-oliveira.github.io/content"
+	],
 	"file_history":
 	[
 		"/C/Users/Rafael/Repos/rafael-oliveira.github.io/robots.txt",
@@ -191,7 +279,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			""
@@ -202,6 +290,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"localhost:2368",
 			"sideNav",
 			"rafael-oliveira.github.com",
 			"url:",
@@ -328,8 +417,7 @@
 			"                      ",
 			"                     ",
 			"                    ",
-			"                   ",
-			"                  "
+			"                   "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -337,6 +425,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"rafael-oliveira.github.io",
 			"dorafa.com",
 			""
 		],
@@ -349,8 +438,442 @@
 	"groups":
 	[
 		{
+			"selected": 7,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 881.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "robots.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "author/rafa/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "como-esta-o-clima-na-sua-mesa-de-trabalho/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "contact/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "otimizando-reunioes/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "rss/index.rss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1958,
+								1958
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17438,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										270,
+										284
+									],
+									[
+										469,
+										483
+									],
+									[
+										648,
+										662
+									],
+									[
+										803,
+										817
+									],
+									[
+										1215,
+										1229
+									],
+									[
+										1592,
+										1606
+									],
+									[
+										1790,
+										1804
+									],
+									[
+										2475,
+										2489
+									],
+									[
+										3146,
+										3160
+									],
+									[
+										3379,
+										3393
+									],
+									[
+										3457,
+										3471
+									],
+									[
+										3743,
+										3757
+									],
+									[
+										4183,
+										4197
+									],
+									[
+										4528,
+										4542
+									],
+									[
+										4866,
+										4880
+									],
+									[
+										5195,
+										5209
+									],
+									[
+										5641,
+										5655
+									],
+									[
+										5778,
+										5792
+									],
+									[
+										6236,
+										6250
+									],
+									[
+										6699,
+										6713
+									],
+									[
+										6898,
+										6912
+									],
+									[
+										6976,
+										6990
+									],
+									[
+										7227,
+										7241
+									],
+									[
+										7558,
+										7572
+									],
+									[
+										7850,
+										7864
+									],
+									[
+										8124,
+										8138
+									],
+									[
+										8482,
+										8496
+									],
+									[
+										9090,
+										9104
+									],
+									[
+										9753,
+										9767
+									],
+									[
+										9964,
+										9978
+									],
+									[
+										10042,
+										10056
+									],
+									[
+										10311,
+										10325
+									],
+									[
+										10702,
+										10716
+									],
+									[
+										11025,
+										11039
+									],
+									[
+										11341,
+										11355
+									],
+									[
+										11648,
+										11662
+									],
+									[
+										12234,
+										12248
+									],
+									[
+										12372,
+										12386
+									],
+									[
+										12891,
+										12905
+									],
+									[
+										13724,
+										13738
+									],
+									[
+										14641,
+										14655
+									],
+									[
+										15606,
+										15620
+									],
+									[
+										16087,
+										16101
+									],
+									[
+										16332,
+										16346
+									],
+									[
+										17190,
+										17204
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								17438,
+								17438
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3272.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -385,6 +908,12 @@
 		]
 	},
 	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "default.sublime-project",
 	"replace":
 	{
 		"height": 0.0
@@ -393,6 +922,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -401,15 +931,32 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 250.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
