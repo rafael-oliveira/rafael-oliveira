@@ -9,9 +9,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -191,7 +188,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
 			""
@@ -202,8 +199,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"localhost:2368",
 			"sideNav",
-			"rafael-oliveira.github.com",
+			"localhost:2368",
 			"url:",
 			";",
 			".",
@@ -328,8 +326,7 @@
 			"                      ",
 			"                     ",
 			"                    ",
-			"                   ",
-			"                  "
+			"                   "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -337,6 +334,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"rafael-oliveira.github.com",
 			"dorafa.com",
 			""
 		],
@@ -346,14 +344,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 0.0

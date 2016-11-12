@@ -59,7 +59,7 @@ q { quotes: "\201C" "\201D" "\2018" "\2019"; }
 small { font-size: 80%; }
 sub, sup {
    font-size: 75%;
-   line-height: 0;
+   line-height: normal;
    position: relative;
    vertical-align: baseline;
 }
@@ -1122,6 +1122,7 @@ body:not(.post-template) .post-title {
     margin: 6rem 0 0 0;
     padding: 6rem 0 0 0;
     border-top: #EBF2F6 1px solid;
+    display: none;
 }
 
 .post-footer h4 {
