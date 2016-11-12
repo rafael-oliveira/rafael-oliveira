@@ -1,3 +1,7 @@
 User-agent: *
+<<<<<<< HEAD
 Sitemap: http://localhost:2368/sitemap.xml
+=======
+Sitemap: http://rafael-oliveira.github.io/sitemap.xml
+>>>>>>> origin/master
 Disallow: /ghost/
