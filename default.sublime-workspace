@@ -9,10 +9,18 @@
 			]
 		]
 	},
+	"buffers":
+	[
+	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 219.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -40,7 +48,12 @@
 	},
 	"console":
 	{
-		"height": 552.0
+		"height": 552.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
 	},
 	"distraction_free":
 	{
@@ -53,6 +66,26 @@
 	},
 	"file_history":
 	[
+		"/Users/raolivei/Dropbox/blog/ghost/content/themes/casper/post2.hbs",
+		"/Users/raolivei/Dropbox/blog/ghost/static/about",
+		"/Users/raolivei/Dropbox/blog/ghost/static/contact",
+		"/Users/raolivei/Dropbox/blog/ghost/static/index.html",
+		"/Users/raolivei/Dropbox/blog/ghost/static/robots.txt",
+		"/Users/raolivei/Dropbox/blog/ghost/static/author/rafa/index.html",
+		"/Users/raolivei/Dropbox/blog/ghost/static/como-esta-o-clima-na-sua-mesa-de-trabalho/index.html",
+		"/Users/raolivei/Dropbox/blog/ghost/static/otimizando-reunioes/index.html",
+		"/Users/raolivei/Dropbox/blog/ghost/static/rss/index.rss",
+		"/Users/raolivei/Dropbox/blog/ghost/static/tag/about/index.html",
+		"/Users/raolivei/Dropbox/blog/ghost/static/tag/contact/index.html",
+		"/Users/raolivei/Desktop/- Agenda CatchUP.txt",
+		"/Users/raolivei/Desktop/Capabilities TODO",
+		"/Users/raolivei/repos/my/rafael-oliveira.github.io/index.html",
+		"/Users/raolivei/repos/my/rafael-oliveira.github.io/robots.txt",
+		"/Users/raolivei/repos/my/rafael-oliveira.github.io/author/rafa/index.html",
+		"/Users/raolivei/repos/my/rafael-oliveira.github.io/como-esta-o-clima-na-sua-mesa-de-trabalho/index.html",
+		"/Users/raolivei/repos/my/rafael-oliveira.github.io/contact/index.html",
+		"/Users/raolivei/repos/my/rafael-oliveira.github.io/otimizando-reunioes/index.html",
+		"/Users/raolivei/repos/my/rafael-oliveira.github.io/rss/index.rss",
 		"/C/Users/Rafael/Repos/rafael-oliveira.github.io/robots.txt",
 		"/C/Users/Rafael/Repos/rafael-oliveira.github.io/author/rafa/index.html",
 		"/C/Users/Rafael/Repos/rafael-oliveira.github.io/contact/index.html",
@@ -160,35 +193,15 @@
 		"/C/Users/Rafael/Dropbox/Documents/English/ex1.txt",
 		"/C/Users/Rafael/Repos/Git/AWS/db_pass",
 		"/C/Users/Rafael/Repos/Git/Misc/Métodologia (dissertação detecção automática de estágios).txt",
-		"/C/Users/Rafael/Repos/Git/Misc/metodo normalização.txt",
-		"/C/Users/Rafael/Desktop/resukts",
-		"/C/Users/Rafael/Repos/Git/Misc/dicWeb",
-		"/C/WekaArff/out_filter_default.arff",
-		"/C/WekaArff/out_filter_wordCounts.arff",
-		"/C/WekaArff/out_filter_wordCounts_ngram.arff",
-		"/C/WekaArff/out_filter_wordCounts_ngram_idf.arff",
-		"/C/WekaArff/out.arff",
-		"/C/Weka/Heavy/11942310153_edf7347c-9e88-479b-b47d-fa866a6b8b58.txt",
-		"/C/Users/Rafael/Desktop/tst.arff",
-		"/C/WekaArff/out2.arff",
-		"/C/Users/Rafael/Repos/Git/Misc/script_restore_sql.bat",
-		"/C/Weka/class1/test.txt",
-		"/C/Users/Rafael/Dropbox/_Dev/SQL/TOP N PER GROUP.sql",
-		"/C/Users/Rafael/Desktop/a.udl",
-		"/C/Weka/3171655446.txt",
-		"/C/Weka/3183257699.txt",
-		"/C/Weka/11941093625.txt",
-		"/C/Weka/11959133356.txt",
-		"/C/Weka/3183252430.txt",
-		"/C/Weka/11942310153.txt"
+		"/C/Users/Rafael/Repos/Git/Misc/metodo normalização.txt"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
-		"height": 90.0,
+		"height": 93.0,
 		"where_history":
 		[
 			""
@@ -199,9 +212,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"display: none",
+			"localhost:2368",
+			",",
+			">",
+			"<",
+			"\"",
+			"\n",
+			",",
+			"\"",
+			",",
+			">,",
 			"localhost:2368",
 			"sideNav",
-			"localhost:2368",
+			"rafael-oliveira.github.com",
 			"url:",
 			";",
 			".",
@@ -315,18 +339,7 @@
 			"                                 ",
 			"                                ",
 			"                               ",
-			"                              ",
-			"                             ",
-			"                            ",
-			"                           ",
-			"                          ",
-			"                         ",
-			"                        ",
-			"                       ",
-			"                      ",
-			"                     ",
-			"                    ",
-			"                   "
+			"                              "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -334,19 +347,27 @@
 		"regex": false,
 		"replace_history":
 		[
-			"rafael-oliveira.github.com",
+			"rafael-oliveira.github.io",
 			"dorafa.com",
 			""
 		],
 		"reverse": false,
 		"show_context": true,
-		"use_buffer2": true,
+		"use_buffer2": false,
 		"whole_word": false,
 		"wrap": true
 	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -375,14 +396,21 @@
 		]
 	},
 	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "default.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -391,15 +419,32 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 250.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
