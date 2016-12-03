@@ -12,7 +12,7 @@
 
     <link rel="shortcut icon" href="favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="assets/css/screen.css?v=5c4d81a7e9" />
+    <link rel="stylesheet" type="text/css" href="assets/css/screen.css?v=06c9a22408" />
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 
     <link rel="canonical" href="http://dorafa.com/about/" />
@@ -39,7 +39,7 @@
     </a>
     <ul>
             <li class="nav-home" role="presentation"><a href="http://dorafa.com/">Home</a></li>
-            <li class="nav-about" role="presentation"><a href="about.html">About</a></li>
+            <li class="nav-about" role="presentation"><a href="about">About</a></li>
             <li class="nav-contact" role="presentation"><a href="contact.html">Contact</a></li>
     </ul>
     <a class="subscribe-button icon-feed" href="http://dorafa.com/rss/">Subscribe</a>
@@ -54,7 +54,7 @@
 
 <header class="main-header post-head no-cover">
     <nav class="main-nav  clearfix">
-        <a class="blog-logo" href="http://dorafa.com"><img src="content/images/2016/11/kombi_white.png" alt="blog do rafa" /></a>
+        <a class="blog-logo" href="http://dorafa.com"><img src="content/images/2016/12/kombi.png" alt="blog do rafa" /></a>
             <a class="menu-button icon-menu" href="about#"><span class="word">Menu</span></a>
     </nav>
 </header>
@@ -92,8 +92,8 @@ Enfim, essa parte aqui seguirá em constante atualização ;)</p>
     
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=5c4d81a7e9"></script>
-    <script type="text/javascript" src="assets/js/index.js?v=5c4d81a7e9"></script>
+    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=06c9a22408"></script>
+    <script type="text/javascript" src="assets/js/index.js?v=06c9a22408"></script>
 
 </body>
 </html>

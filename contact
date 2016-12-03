@@ -12,12 +12,63 @@
 
     <link rel="shortcut icon" href="favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="assets/css/screen.css?v=5c4d81a7e9" />
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="assets/css/screen.css?v=e05408cc27" />
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 
     <link rel="canonical" href="http://dorafa.com/contact/" />
-    <meta name="referrer" content="origin" />
-    <meta name="generator" content="Ghost 0.7" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="blog do rafa" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Contact" />
+    <meta property="og:description" content="rafael oliveira Consultant @ ThoughtWorks      mail@dorafa.com Belo Horizonte, MG - Brazil" />
+    <meta property="og:url" content="http://dorafa.com/contact/" />
+    <meta property="article:tag" content="contact" />
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Contact" />
+    <meta name="twitter:description" content="rafael oliveira Consultant @ ThoughtWorks      mail@dorafa.com Belo Horizonte, MG - Brazil" />
+    <meta name="twitter:url" content="http://dorafa.com/contact/" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Rafael Oliveira" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="contact" />
+    <meta name="twitter:site" content="@do_rafa" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "blog do rafa",
+        "logo": "http://dorafa.com/content/images/2016/12/kombi-1.png"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Rafael Oliveira",
+        "image": {
+            "@type": "ImageObject",
+            "url": "http://dorafa.com/content/images/2016/11/eu2.jpg",
+            "width": 450,
+            "height": 450
+        },
+        "sameAs": [],
+        "description": "Analista de Sistemas, Agilista, Atleticano, Bebedor de Cerveja e Músico de Garagem. "
+    },
+    "headline": "Contact",
+    "url": "http://dorafa.com/contact/",
+    "keywords": "contact",
+    "description": "rafael oliveira Consultant @ ThoughtWorks      mail@dorafa.com Belo Horizonte, MG - Brazil",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://dorafa.com"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 0.11" />
     <link rel="alternate" type="application/rss+xml" title="blog do rafa" href="http://dorafa.com/rss/" />
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -39,8 +90,7 @@
     </a>
     <ul>
             <li class="nav-home" role="presentation"><a href="http://dorafa.com/">Home</a></li>
-            <li class="nav-about" role="presentation"><a href="about.html">About</a></li>
-            <li class="nav-contact" role="presentation"><a href="contact.html">Contact</a></li>
+            <li class="nav-contato" role="presentation"><a href="contact.html">Contato</a></li>
     </ul>
     <a class="subscribe-button icon-feed" href="http://dorafa.com/rss/">Subscribe</a>
 </div>
@@ -54,7 +104,7 @@
 
 <header class="main-header post-head no-cover">
     <nav class="main-nav  clearfix">
-        <a class="blog-logo" href="http://dorafa.com"><img src="content/images/2016/11/kombi_white.png" alt="blog do rafa" /></a>
+        <a class="blog-logo" href="http://dorafa.com"><img src="content/images/2016/12/kombi-1.png" alt="blog do rafa" /></a>
             <a class="menu-button icon-menu" href="contact#"><span class="word">Menu</span></a>
     </nav>
 </header>
@@ -92,8 +142,8 @@ mail@dorafa.com</div>
     
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=5c4d81a7e9"></script>
-    <script type="text/javascript" src="assets/js/index.js?v=5c4d81a7e9"></script>
+    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=e05408cc27"></script>
+    <script type="text/javascript" src="assets/js/index.js?v=e05408cc27"></script>
 
 </body>
 </html>
